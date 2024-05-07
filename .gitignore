@@ -1,5 +1,5 @@
 .env
 migrations/
 __pycache__/
-*.xlsx
+# *.xlsx
 db.sqlite3
